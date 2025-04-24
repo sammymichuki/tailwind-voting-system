@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwind-voting-system/static/css/main.cf890fdb.css",
+    "main.js": "/tailwind-voting-system/static/js/main.7922d289.js",
+    "index.html": "/tailwind-voting-system/index.html",
+    "main.cf890fdb.css.map": "/tailwind-voting-system/static/css/main.cf890fdb.css.map",
+    "main.7922d289.js.map": "/tailwind-voting-system/static/js/main.7922d289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.7922d289.js"
+  ]
+}
